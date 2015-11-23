@@ -4,8 +4,9 @@ Cross video player element for Xamarin Forms.
 Cross video player element for Xamarin Forms that supports Android and Windows Phone Silverlight. 
 This package will add the source files to your project.
 
-** No support yet for iOS! **
+The Nuget package is available on https://www.nuget.org/packages/Xam.Plugin.CrossVideoPlayer/
 
+** No support yet for iOS! **
 
 Here is a sample code that generated the video player
 

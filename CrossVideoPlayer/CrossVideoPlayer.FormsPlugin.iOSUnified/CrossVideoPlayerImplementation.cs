@@ -17,7 +17,6 @@ namespace CrossVideoPlayer.FormsPlugin.iOSUnified
         /// </summary>
         public static void Init()
         {
-
         }
     }
 }

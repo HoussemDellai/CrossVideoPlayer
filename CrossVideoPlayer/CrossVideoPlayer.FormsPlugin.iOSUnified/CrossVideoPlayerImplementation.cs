@@ -8,7 +8,7 @@ using Xamarin.Forms.Platform.iOS;
 namespace CrossVideoPlayer.FormsPlugin.iOSUnified
 {
     /// <summary>
-    /// CrossVideoPlayer Renderer for iOS (Not implemented).
+    /// CrossVideoPlayer Renderer for iOS (Not implemented!).
     /// </summary>
     public class CrossVideoPlayerRenderer : ViewRenderer
     {
